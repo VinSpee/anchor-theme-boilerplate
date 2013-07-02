@@ -1,0 +1,5 @@
+Theme name:    Voice &amp; Tone
+Description:   Set some standards for your brand's copy.
+Author name:   Vince Speelman
+Author site:   http://vinspee.me
+License:       http://licence.visualidiot.com
